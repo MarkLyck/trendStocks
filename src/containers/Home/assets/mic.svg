@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="90px" viewBox="0 0 70 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mic" fill="#000000">
+            <path d="M35,65 C46.028,65 55,56.028 55,45 L55,20 C55,8.972 46.028,0 35,0 C23.972,0 15,8.972 15,20 L15,45 C15,56.028 23.972,65 35,65 L35,65 Z M20,20 C20,11.729 26.729,5 35,5 C43.271,5 50,11.729 50,20 L50,45 C50,53.271 43.271,60 35,60 C26.729,60 20,53.271 20,45 L20,20 L20,20 Z" id="Shape"></path>
+            <path d="M67.5,42.5 C66.119,42.5 65,43.619 65,45 C65,61.542 51.542,75 35,75 C18.458,75 5,61.542 5,45 C5,43.619 3.881,42.5 2.5,42.5 C1.119,42.5 0,43.619 0,45 C0,63.457 14.365,78.613 32.5,79.901 L32.5,87.5 C32.5,88.881 33.619,90 35,90 C36.381,90 37.5,88.881 37.5,87.5 L37.5,79.901 C55.635,78.613 70,63.457 70,45 C70,43.619 68.881,42.5 67.5,42.5 L67.5,42.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

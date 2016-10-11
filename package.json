@@ -1,0 +1,56 @@
+{
+  "name": "trendstocks",
+  "version": "0.0.1",
+  "description": "Artificial Intelligence project",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaearon/react-hot-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack"
+  ],
+  "author": "Mark Lyck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklyck/ava"
+  },
+  "homepage": "https://github.com/marklyck/ava",
+  "devDependencies": {
+    "autoprefixer": "^6.5.0",
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "css-loader": "^0.25.0",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.6.2",
+    "inline-svg-loader": "0.0.1",
+    "node-sass": "^3.10.1",
+    "postcss-loader": "^0.13.0",
+    "precss": "^1.4.0",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-router": "^2.8.1"
+  }
+}
